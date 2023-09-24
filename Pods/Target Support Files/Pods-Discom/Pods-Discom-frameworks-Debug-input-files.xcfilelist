@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Discom/Pods-Discom-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/R.swift/RswiftResources.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
